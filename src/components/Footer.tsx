@@ -33,13 +33,12 @@ export default function Footer() {
           </div>
           <div>
             <h4 className="font-heading font-semibold mb-3 text-sm">Contact</h4>
-            <p className="text-sm text-muted-foreground mb-2">project@careerai.edu</p>
-            <p className="text-sm text-muted-foreground mb-2">Department of Computer Science</p>
-            <p className="text-sm text-muted-foreground">Guide: Prof. R.K. Sharma</p>
+            <p className="text-sm text-muted-foreground mb-2">vaishnavibirajdar@gmail.com</p>
+            <p className="text-sm text-muted-foreground mb-2">Department of Computer Engineering</p>
           </div>
         </div>
         <div className="mt-10 pt-6 border-t border-border text-center text-xs text-muted-foreground">
-          © 2025 CareerAI · Final Year B.Tech CS Project · Powered by XGBoost & Python Flask · 10,000 Profiles
+          © 2026 CareerAI · Final Year Diploma Project  
         </div>
       </div>
     </footer>
