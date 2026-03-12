@@ -74,7 +74,7 @@ export default function LandingPage() {
         <div className="container mx-auto px-4 grid lg:grid-cols-2 gap-12 items-center">
           <div className="relative z-10">
             <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full glass-card text-xs text-muted-foreground mb-6">
-              ✦ AI-Powered · 10,000 Student Profiles · 30 Career Paths · 2025
+              ✦ AI-Powered · 10,000 Student Profiles · 30 Career Paths · 2026
             </div>
             <h1 className="font-heading text-4xl sm:text-5xl lg:text-7xl font-bold leading-tight mb-6">
               <span className="text-foreground">Discover the Career</span><br />
