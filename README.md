@@ -51,8 +51,8 @@ npm run dev
 cd backend
 uvicorn app:app --reload
 
-### Step 6: Open the application
-http://localhost:5173
+### Step 6: Live Website
+ai-career-recommendation-system-61mhy4zt4.vercel.app
 
 ## Output
 The system predicts the most suitable career option such as:
