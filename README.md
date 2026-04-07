@@ -52,7 +52,7 @@ cd backend
 uvicorn app:app --reload
 
 ### Step 6: Live Website
-https://vercel.com/vaishnavib2007s-projects/ai-career-recommendation-system
+https://ai-career-recommendation-system-2ai7nj9uk.vercel.app
 
 ## Output
 The system predicts the most suitable career option such as:
